@@ -1,0 +1,31 @@
+
+.eql3 {
+	height:2px; 
+	width: 30px;
+	border:1px solid;
+}
+body{
+	background: skyblue;
+}
+
+* {
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+}
+
+.wrap {
+	width: 400px;
+	margin:auto;
+	height:auto;
+	background:black;
+	padding:15px; 
+}
+
+input [type=text] {
+ 	width:100%;
+ 	padding:10px;
+ 	font-size:22px;
+ 	margin-top:20px;
+ 	border-radius: 5px;
+ }
